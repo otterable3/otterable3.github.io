@@ -18,7 +18,7 @@ defaultContentLanguage = 'en'
 [menu]
 	
   [[menu.main]]
-    identifier = "art"
+    identifier = "mainsite"
     name = "Main site"
     url = "https://ermine.de"
     weight = 3
@@ -26,7 +26,7 @@ defaultContentLanguage = 'en'
 
 
 [params]
-  logo = "/images/ottor2.png" # You can add own logo. For example "/images/logo.png".
+  logo = "/images/ottor2.png" # Yoiu can add own logo. For example "/images/logo.png".
   description = "Aditu is a stylish and modern dark theme with a clean and unique design."
 
 
