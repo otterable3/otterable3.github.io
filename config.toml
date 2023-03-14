@@ -19,7 +19,7 @@ defaultContentLanguage = 'en'
 	
   [[menu.main]]
     identifier = "mainsite"
-    name = "Main site"
+    name = "> Main site"
     url = "https://ermine.de"
     weight = 3
 	
