@@ -5,7 +5,7 @@ theme = 'maverick'
 defaultContentLanguage = 'en'
 [languages]
   [languages.en]
-     title = "Storage space"
+     title = "Cuteotter.eu - Learning to play music"
   [languages.de]
      title = "Ermine.de"
 
@@ -16,6 +16,12 @@ defaultContentLanguage = 'en'
 
 # Main Menu
 [menu]
+	
+  [[menu.main]]
+    identifier = "mainsite"
+    name = "> Author site"
+    url = "https://ermine.de"
+    weight = 3
 	
 
 
