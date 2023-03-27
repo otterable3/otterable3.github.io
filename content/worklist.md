@@ -27,3 +27,9 @@ pfizer, werkbus anbindung an die U1/U2
 https://www.karriere.at/jobs/6665573
 2.9 brutto
 zwolfaxing :^)
+
+https://www.steiner-hitech.at/jobboerse/sonstiges/5240-ts-hp-chemie-laborant-wmd/
+laborarbeit
+2.8-3.2k
+wien 1230 2 min zu fuß von u6 siebenhirten, "Flexible Arbeitszeiten"
+
