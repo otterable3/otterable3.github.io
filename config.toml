@@ -5,8 +5,6 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
 defaultContentLanguage = "en"
 
-# The name of this wonderful theme ;-).
-theme = "singlepage"
 
 # The browser tab name
 title = "Ticket to ride - Wien"
