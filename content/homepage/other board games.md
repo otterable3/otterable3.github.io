@@ -9,16 +9,15 @@ There are a few more Ticket to ride expansions that we've created.
 All expansions come with printfiles.
 
 
-[> A Balkan map with a special country ruling <](xd)
+A Balkan map with a special country ruling.
 
-[> A Hungarian map, regular rules <](xd)
+A Romanian map, regular rules
 
-[> A Romanian map, regular rules <](xd)
-
-[> An Austrian map, regular rules <](xd)
+An Austrian map, regular rules.
 
 
+[> Files here. <](bit.ly/erminezugumzugother)
 
 #### And!
 
-We've also made a ghost hunting game with what we think are very cool mechanics. [> Here is the link <](xd)
+We've also working on a ghost hunting game with what we think are very cool mechanics. TBD 8/2023
