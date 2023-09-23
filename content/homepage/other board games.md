@@ -16,8 +16,4 @@ A Romanian map, regular rules
 An Austrian map, regular rules.
 
 
-[> Files here. <](bit.ly/erminezugumzugother)
-
-#### And!
-
-We've also working on a ghost hunting game with what we think are very cool mechanics. TBD 8/2023
+[> Files here. <](https://bit.ly/erminezugumzugother)
