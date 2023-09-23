@@ -15,3 +15,5 @@ In addition it comes with:
 - Guide cards for each new functionality (down below)
 - [Printfiles](#downloads) with clear instructions
 - German version
+
+![Sheet](setup.png)
